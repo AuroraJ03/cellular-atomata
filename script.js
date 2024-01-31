@@ -70,7 +70,7 @@ let sketch = function (p) {
         p.noStroke();
 
         if (cells[i][j].aliveNow) {
-          p.fill("#FFF000");
+          p.fill("#3d8df2");
           p.rect(i * cellWidth, j * cellHeight, cellWidth, cellHeight);
         }
 
