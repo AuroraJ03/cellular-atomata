@@ -2,8 +2,8 @@ let sketch = function (p) {
   let cells = [];
   const canvasWidth = 1000;
   const canvasHeight = 1000;
-  const widthNum = 70;
-  const heightNum = 70;
+  const widthNum = 50;
+  const heightNum = 100;
   const cellWidth = canvasWidth / widthNum;
   const cellHeight = canvasHeight / heightNum;
 
